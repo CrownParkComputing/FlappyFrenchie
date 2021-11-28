@@ -18,7 +18,8 @@ public class TapController : MonoBehaviour
     public AudioSource tapAudio;
     public AudioSource scoreAudio;
     public AudioSource dieAudio;
-    new Rigidbody2D rigidbody = new Rigidbody2D();
+    private Rigidbody2D rigidbody;
+
     Quaternion downRotation;
     Quaternion forwardRotation;
 
