@@ -123,10 +123,6 @@ public class GameManager : MonoBehaviour
         SetPageState(PageState.Countdown);
     }
 
-    public void ExitGame()
-    //actgivated when exit button hit
-    {
-       Application.Quit();
-    }
+
 
 }
