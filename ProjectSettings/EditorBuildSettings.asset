@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Fonts/Scenes/flappyfrenchie.unity
+    path: Assets/Scenes/flappyfrenchie.unity
     guid: 3eb15532a4e4dd74d8833f797cbff2ba
   m_configObjects: {}
